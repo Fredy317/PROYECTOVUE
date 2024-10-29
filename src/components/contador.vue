@@ -3,7 +3,7 @@
 <template>
   <h1>fredy Orellana</h1>
 <p>{{ contador }}</p>
-<button @click="incrementar">Incrementar</button>
+<button @click="incrementar">evelin</button>
 <button @click="decrementar">Decrementar</button>
 </template>
 
@@ -25,7 +25,7 @@ const decrementar =()=>{
 
 <style scoped>
 p {
-  color: red;
+  color: rgb(221, 21, 161);
 }
 
 
